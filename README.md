@@ -27,9 +27,8 @@ Project ini menerapkan EDA untuk memahami karakteristik, struktur, dan komponen 
 3. Buat portfolio dalam bentuk Power Point
 4. Upload di LinkedIn dan tag dibimbing.id
 
-- Output
-  Dataset: https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement?resource=download
-  Presentasi Project: https://www.canva.com/design/DAGuC7uKlu0/sjKldViEirqHqzAklKPc2w/edit?utm_content=DAGuC7uKlu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Dataset: https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement?resource=download
+- Presentasi Project: https://www.canva.com/design/DAGuC7uKlu0/sjKldViEirqHqzAklKPc2w/edit?utm_content=DAGuC7uKlu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #Hubungi Saya
 
